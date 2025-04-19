@@ -1,0 +1,26 @@
+{
+  "name": "ssh-notify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radiantbeing/ssh-notify-js.git"
+  },
+  "keywords": [
+    "ssh",
+    "login",
+    "notify"
+  ],
+  "author": "Inhwa Kim <inhwa.kim@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radiantbeing/ssh-notify-js/issues"
+  },
+  "homepage": "https://github.com/radiantbeing/ssh-notify-js#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "undici": "^7.8.0"
+  }
+}
